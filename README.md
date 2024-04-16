@@ -5,7 +5,7 @@
 ## Installation
 
 ```sh
-git clone https://github.com/plastiey/kaiwa.git
+git clone https://github.com/kenjitheman/kaiwa.git
 cd kaiwa
 ```
 
